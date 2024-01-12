@@ -29,8 +29,6 @@ This project aims to provide a basic banking system that allows users to create 
 3. Make sure to set up the necessary database connectivity details in the `Conn.java` file.
 4. Compile and run the `Signup.java` file to start the application.
 
-Certainly! Based on your specifications, here is an updated version of the "Usage" section in the README:
-
 ## Usage
 
 ### Existing Users:
