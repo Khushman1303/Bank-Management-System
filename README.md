@@ -23,7 +23,7 @@ This project aims to provide a basic banking system that allows users to create 
 ## Installation
 
 1. Clone the repository to your local machine.
- git clone https://github.com/your-username/bank-management-system.git
+ git clone https://github.com/Khushman1303/Bank-Management-System
 
 2. Open the project in your preferred Java IDE (Integrated Development Environment).
 3. Make sure to set up the necessary database connectivity details in the `Conn.java` file.
