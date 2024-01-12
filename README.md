@@ -29,11 +29,44 @@ This project aims to provide a basic banking system that allows users to create 
 3. Make sure to set up the necessary database connectivity details in the `Conn.java` file.
 4. Compile and run the `Signup.java` file to start the application.
 
+Certainly! Based on your specifications, here is an updated version of the "Usage" section in the README:
+
 ## Usage
-1. Run the application, and the initial screen will prompt you to create a new account.
-2. Fill in the required personal details for creating a new account.
-3. After creating an account, you can choose to deposit money.
-4. Enter the amount you want to deposit and click the "DEPOSIT" button.
-5. You can view your transaction history by clicking on the "Transactions" option.
-6. To exit the application, click the "Exit" or "Back" buttons as needed.
+
+### Existing Users:
+
+1. **Sign In:**
+   - Launch the application, and the initial screen will prompt existing users to sign in.
+   - Enter your Card Number and PIN.
+   - Click on the "Sign In" button.
+2. **Operations for Existing Users:**
+   - After signing in, you will be presented with the following options:
+     - **Deposit:** Deposit money into your account.
+     - **Withdraw:** Withdraw money from your account.
+     - **Fast Cash:** Quickly withdraw a pre-defined amount.
+     - **Mini Statement:** View a summary of your recent transactions.
+     - **Balance Enquiry:** Check your account balance.
+3. **Clear Details:**
+   - To reset the Card Number and PIN fields, click on the "Clear" button.
+
+### New Users:
+
+1. **Sign Up:**
+   - If you are a new user, click on the "Sign Up" option on the initial screen.
+   - Fill in the required personal details in the first form, including name, address, father's name, etc.
+   - Click on "Next" to proceed to the next form.
+2. **Additional Information:**
+   - Fill in additional information such as category, religion, etc.
+   - Click on "Next" to proceed to the final form.
+3. **Account Details:**
+   - In the final form, you will be prompted to provide account details.
+   - Once completed, click on "Create Account."
+4. **Card Number and PIN:**
+   - After successfully creating a new account, your Card Number and PIN will be displayed.
+   - Use these details to sign in as an existing user.
+5. **Operations for New Users:**
+   - As a new user, after signing in with the provided Card Number and PIN, you can perform operations like depositing money, withdrawing, etc.
+6. **Clear Details:**
+   - To reset the details during the sign-up process, click on the "Clear" button.
+
 
